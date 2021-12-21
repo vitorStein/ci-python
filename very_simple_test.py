@@ -5,7 +5,7 @@ from very_simple import sum
 class TestSum(unittest.TestCase):
 
     def test_sum(self):
-        self.assertEqual(sum(2,3), 4)
+        self.assertEqual(sum(2,2), 4)
 
  
 
